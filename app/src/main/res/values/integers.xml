@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="bottom_navigation_height">60</integer>
+    <integer name="default_padding">8</integer>
+    <integer name="search_bar_height">36</integer>
+</resources>

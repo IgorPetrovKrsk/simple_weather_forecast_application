@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Simple weather forecast app</string>
+    <string name="back_button">back</string>
+    <string name="text_search">Search</string>
+    <string name="text_city">City</string>
+    <string name="text_city_list">Cities</string>
+    <string name="text_cities">Cities</string>
+    <string name="text_city_forcast">"Weather forecast for 5 days "</string>
+    <string name="text_min_temp">"min: "</string>
+    <string name="text_max_temp">max:</string>
+</resources>
